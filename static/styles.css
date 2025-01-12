@@ -215,7 +215,7 @@ h2{
     transform: translateY(30px);
     animation: slideInUp 1s ease forwards 1.3s;
     width: 100%;
-    direction: rtl
+    text-alighn: right
 }
 
 @keyframes fadeIn {
